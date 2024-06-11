@@ -1,12 +1,7 @@
-## Hi there 👋
+## Kelompok 3
+## TI 6A
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Nabiilah Putri Afiifah 	2107411004
+- Muhamad Fazril Maulana 	2107411015
+- Gerry Satria Halim		  2107411028
+- Mohamad Rafi Al-Yahya		2107411031
